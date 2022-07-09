@@ -50,6 +50,7 @@ public class CallPython {
         String result = output.substring(indexNum);
         System.out.println("output: " + result);
         return result;
+        //요로롱
 
     }
 }
